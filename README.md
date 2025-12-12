@@ -1,16 +1,22 @@
-## Hi there 👋
+# Erica L. Tartt, PhD
 
-<!--
-**eltphd/eltphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Interdisciplinary AI researcher** bridging statistical learning, education equity, and human-centered design.
 
-Here are some ideas to get you started:
+## What I'm Building
+- **Measurement Ally**: Community-owned data platform using latent transition analysis for trajectory modeling
+- **BASEops**: Workflow automation suite for multi-venture operations
+- **Feelings Unplugged**: Evidence-based mental health tools for adolescents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus
+- Mixture modeling (LCA/LTA) in R and Python
+- Educational data mining and learning analytics  
+- Interpretable AI for social systems
+- Trauma-informed system design
+
+## Current Work
+🔬 Applying to OpenAI Residency 2026  
+📊 Publishing methodological paper in *Psychological Methods*  
+🛠️ Prototyping community data ecosystems with ethical feedback loops
+
+## Find Me
+📧 ericatartt@gmail.com | 🔗 [LinkedIn](linked.com/in/ericatartt)
