@@ -110,9 +110,9 @@ Founder & Executive Director - Teen mental health, AI ethics, operations automat
 
 ## 🤝 Let's Connect
 
-- 📧 **Email:** mstartt@gmail.com
+- 📧 **Email:** erica@measurementally.com
 - 💼 **LinkedIn:** [linkedin.com/in/ericatartt](https://linkedin.com/in/ericatartt)
-- 🐦 **Twitter:** [Coming Soon]
+- 🐦 **Twitter:** @ericatartt
 - 🌐 **Website:** [ericatartt.com](https://ericatartt.com)
 
 ---
